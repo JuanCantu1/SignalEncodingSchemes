@@ -22,6 +22,7 @@ This project consists of a Python script capable of encoding input data using di
 
 # Project Execution
 NRZ-L:
+
 ![image](https://github.com/JuanCantu1/SignalEncodingSchemes/assets/109363196/321aa883-3454-49f0-b4d4-3f02b7893d59)
 ![image](https://github.com/JuanCantu1/SignalEncodingSchemes/assets/109363196/7e0c4fa3-a260-4b43-9f39-5b17a85ab671)
 ![image](https://github.com/JuanCantu1/SignalEncodingSchemes/assets/109363196/7cb14305-285c-4f9d-9927-2d1e2fca3c14)
@@ -39,11 +40,13 @@ B-AMI:
 ![image](https://github.com/JuanCantu1/SignalEncodingSchemes/assets/109363196/6af21e6b-a5f2-4073-8e06-513af74a5228)
 
 Manchester:
+
 ![image](https://github.com/JuanCantu1/SignalEncodingSchemes/assets/109363196/d012f118-ca8a-46ff-9c5a-e68e1f49cca2)
 ![image](https://github.com/JuanCantu1/SignalEncodingSchemes/assets/109363196/f8665b95-22b4-4685-b514-40279f6322ed)
 ![image](https://github.com/JuanCantu1/SignalEncodingSchemes/assets/109363196/cfa91801-bc68-416f-b38d-b9de59c94cd2)
 
 D-Manchester:
+
 ![image](https://github.com/JuanCantu1/SignalEncodingSchemes/assets/109363196/e1a222e6-8de0-446d-9fd3-bb7d5f0e1d2a)
 ![image](https://github.com/JuanCantu1/SignalEncodingSchemes/assets/109363196/24a451da-8177-4fe1-81bb-b0adafe07735)
 ![image](https://github.com/JuanCantu1/SignalEncodingSchemes/assets/109363196/c8e8e653-56e3-4869-8e9e-c4b7a6472a7d)
