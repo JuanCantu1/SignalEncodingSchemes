@@ -32,6 +32,7 @@ NRZ-I:
 ![image](https://github.com/JuanCantu1/SignalEncodingSchemes/assets/109363196/88898ca1-f7d7-491b-941d-baa6e7976508)
 
 B-AMI:
+
 ![image](https://github.com/JuanCantu1/SignalEncodingSchemes/assets/109363196/3e4aa0c0-1ddd-4e48-be85-1c0c028a2e76)
 ![image](https://github.com/JuanCantu1/SignalEncodingSchemes/assets/109363196/9316219d-52d2-41ec-a464-c48a6bf12a0d)
 ![image](https://github.com/JuanCantu1/SignalEncodingSchemes/assets/109363196/6af21e6b-a5f2-4073-8e06-513af74a5228)
