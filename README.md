@@ -27,6 +27,7 @@ NRZ-L:
 ![image](https://github.com/JuanCantu1/SignalEncodingSchemes/assets/109363196/7cb14305-285c-4f9d-9927-2d1e2fca3c14)
 
 NRZ-I:
+
 ![image](https://github.com/JuanCantu1/SignalEncodingSchemes/assets/109363196/1259f0e7-cbe3-4f66-ad55-d65bcd5685c3)
 ![image](https://github.com/JuanCantu1/SignalEncodingSchemes/assets/109363196/1189eabf-52ea-460e-a474-c589b5ae33f5)
 ![image](https://github.com/JuanCantu1/SignalEncodingSchemes/assets/109363196/88898ca1-f7d7-491b-941d-baa6e7976508)
